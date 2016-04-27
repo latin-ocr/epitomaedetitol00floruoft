@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./epitomaedetitol00floruoft_0055.png"; bbox 0 0 2002 3320; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 666 1014 1252 1247">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 666 1014 1252 1247">
+     <span class='ocr_line' id='line_1_1' title="bbox 666 1014 1252 1081; baseline -0.005 0"><span class='ocrx_word' id='word_1_1' title='bbox 666 1016 885 1081; x_wconf 86' lang='lat' dir='ltr'><strong>IVLI</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 945 1014 1252 1080; x_wconf 83' lang='lat' dir='ltr'>FLORI</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 757 1170 1157 1247; baseline -0.003 -24"><span class='ocrx_word' id='word_1_3' title='bbox 757 1170 1157 1247; x_wconf 72' lang='grc' dir='ltr'><strong>ΕΡΙΤΟΜΑΕ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 353 1313 1577 1520">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 353 1313 1577 1520">
+     <span class='ocr_line' id='line_1_3' title="bbox 595 1313 1353 1383; baseline -0.005 0"><span class='ocrx_word' id='word_1_4' title='bbox 595 1315 732 1383; x_wconf 83' lang='lat' dir='ltr'>DE</span> <span class='ocrx_word' id='word_1_5' title='bbox 784 1314 1016 1382; x_wconf 85' lang='grc' dir='ltr'>ΤΙΤΟ</span> <span class='ocrx_word' id='word_1_6' title='bbox 1046 1313 1353 1379; x_wconf 88' lang='lat' dir='ltr'><strong>LIVIO</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 353 1470 1577 1520; baseline -0.003 0"><span class='ocrx_word' id='word_1_7' title='bbox 353 1474 734 1520; x_wconf 83' lang='lat' dir='ltr'>BELLORVM</span> <span class='ocrx_word' id='word_1_8' title='bbox 753 1473 1047 1519; x_wconf 84' lang='lat' dir='ltr'>OMNIVM</span> <span class='ocrx_word' id='word_1_9' title='bbox 1065 1471 1422 1517; x_wconf 85' lang='lat' dir='ltr'><strong>ANNORVM</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1446 1470 1577 1516; x_wconf 82' lang='lat' dir='ltr'>DCC</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 831 1612 1095 1654">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 831 1612 1095 1654">
+     <span class='ocr_line' id='line_1_5' title="bbox 831 1612 1095 1654; baseline -0.011 0"><span class='ocrx_word' id='word_1_11' title='bbox 831 1613 999 1654; x_wconf 85' lang='lat' dir='ltr'>LIBRI</span> <span class='ocrx_word' id='word_1_12' title='bbox 1032 1612 1095 1652; x_wconf 94' lang='grc' dir='ltr'>ΙΙ.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
